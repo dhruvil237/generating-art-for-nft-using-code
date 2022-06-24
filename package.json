@@ -1,0 +1,15 @@
+{
+  "name": "bored_millennials",
+  "version": "1.0.0",
+  "description": "nft-art-generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dhruvil Patel",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.30.7"
+  }
+}
